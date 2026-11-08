@@ -1,0 +1,9 @@
+.env
+
+# Lokale website-dossiers en gebruikersgegevens
+/data/
+
+# Lokale back-ups: nooit in Git
+*.before-*
+*.backup
+*.bak
